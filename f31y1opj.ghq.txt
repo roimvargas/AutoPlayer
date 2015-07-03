@@ -1,0 +1,75 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+	new file:   .classpath
+	new file:   .project
+	new file:   .settings/org.eclipse.jdt.core.prefs
+	new file:   .settings/org.eclipse.jdt.ui.prefs
+	new file:   AutoPlayer.jar
+	new file:   AutoPlayer_jar.zip
+	new file:   AutoPlayer_src.zip
+	new file:   bin/Injection.class
+	new file:   bin/JTableCreatingDemo.class
+	new file:   bin/Main.class
+	new file:   bin/Root$Stops.class
+	new file:   bin/Root.class
+	new file:   bin/SortTuples$1.class
+	new file:   bin/SortTuples.class
+	new file:   bin/Tuples.class
+	new file:   bin/com/epic/autoplayer/AutoPlayer.class
+	new file:   bin/com/epic/autoplayer/PlayerRequestListener.class
+	new file:   bin/com/epic/autoplayer/VideoPlayer.class
+	new file:   create_jar.jardesc
+	new file:   doc/allclasses-frame.html
+	new file:   doc/allclasses-noframe.html
+	new file:   doc/com/epic/autoplayer/AutoPlayer.html
+	new file:   doc/com/epic/autoplayer/PlayerRequestListener.html
+	new file:   doc/com/epic/autoplayer/VideoPlayer.html
+	new file:   doc/com/epic/autoplayer/class-use/AutoPlayer.html
+	new file:   doc/com/epic/autoplayer/class-use/PlayerRequestListener.html
+	new file:   doc/com/epic/autoplayer/class-use/VideoPlayer.html
+	new file:   doc/com/epic/autoplayer/package-frame.html
+	new file:   doc/com/epic/autoplayer/package-summary.html
+	new file:   doc/com/epic/autoplayer/package-tree.html
+	new file:   doc/com/epic/autoplayer/package-use.html
+	new file:   doc/constant-values.html
+	new file:   doc/deprecated-list.html
+	new file:   doc/help-doc.html
+	new file:   doc/index-files/index-1.html
+	new file:   doc/index-files/index-10.html
+	new file:   doc/index-files/index-11.html
+	new file:   doc/index-files/index-2.html
+	new file:   doc/index-files/index-3.html
+	new file:   doc/index-files/index-4.html
+	new file:   doc/index-files/index-5.html
+	new file:   doc/index-files/index-6.html
+	new file:   doc/index-files/index-7.html
+	new file:   doc/index-files/index-8.html
+	new file:   doc/index-files/index-9.html
+	new file:   doc/index.html
+	new file:   doc/overview-tree.html
+	new file:   doc/package-list
+	new file:   doc/resources/inherit.gif
+	new file:   doc/stylesheet.css
+	new file:   jackson-annotations-2.3.5.jar
+	new file:   jackson-core-2.3.5.jar
+	new file:   jackson-databind-2.3.5.jar
+	new file:   javadoc.xml
+	new file:   jsonfile.txt
+	new file:   jsonfile2.txt
+	new file:   src/DeckTest.java
+	new file:   src/Injection.java
+	new file:   src/JTableCreatingDemo.java
+	new file:   src/Main.java
+	new file:   src/Root.java
+	new file:   src/SortTuples.java
+	new file:   src/Tuples.java
+	new file:   src/com/autoplayer/AutoPlayer.java
+	new file:   src/com/autoplayer/PlayerRequestListener.java
+	new file:   src/com/autoplayer/VideoPlayer.java
+
+

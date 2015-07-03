@@ -1,0 +1,16 @@
+[
+    {
+        "stops": [
+                   {
+                     "arrival_time": {
+                                      "sat": [ "04:41", "05:41","06:09"],
+                                      "mon-fri": ["04:24","05:10","05:40"],
+                                      "sun": ["07:20","08:20","09:20"]
+                                     },
+                     "stop_name": "Ravensbusch "
+                   }
+                ],
+        "route": "2",
+        "direction": "Bornkamp"
+    }
+] 
